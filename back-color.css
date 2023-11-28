@@ -1,0 +1,37 @@
+/*______main color______*/
+#liniar{
+    background: linear-gradient(to right, #0CBAF1 0%, #E95CE9 100%);
+}
+#purple10{
+    background-color:#CA6AEB;
+}
+#blue{
+    background-color: #19B5F1;
+}
+/*_____alerts_______*/
+#success{
+    background-color: #00C566;
+}
+#error{
+    background-color: rgba(255, 71, 71, 1);
+}
+#Warning{
+    background-color: rgba(250, 204, 21, 1);
+}
+/*______Grayscale________*/
+#black100{
+    background-color: rgba(24, 24, 27, 1);
+}
+#black50{
+    background-color: rgba(37, 37, 50, 1);
+}
+#gray1{
+    background-color: rgba(176, 176, 178, 1) ;
+}
+
+#gray2{
+    background-color: rgba(209, 209, 209, 1);
+}
+#white{
+    background-color: rgba(255, 255, 255, 1);
+}

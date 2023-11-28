@@ -1,0 +1,122 @@
+*{
+    font-family: 'Chakra Petch', sans-serif;
+}
+#h1 {
+    font-size: 64px;
+    line-height: auto;
+    width: 600;
+    color: white;
+}
+#h2 {
+    font-size: 48px;
+    line-height: 58px;
+    width: 600;
+    color: white;
+}
+#h3 {
+    font-size: 40px;
+    line-height: 58px;
+    width: 600;
+}
+#h4 {
+    font-size: 36px;
+    line-height: 44px;
+    width: 500;
+}
+
+#h5 {
+    font-size: 32px;
+    line-height: auto;
+    width: 600;
+}
+#h6 {
+    font-size: 28px;
+    line-height: auto;
+    width: 600;
+}
+/*had hader adwansed*/
+#h7{
+    font-size: 20px;
+    line-height: auto;
+    width: 400;
+    color:white;
+}
+#h8{
+    font-size: 20px;
+    line-height: auto;
+    width: 500;
+}
+#h9{
+    font-size: 18px;
+    line-height: auto;
+    width: 400;
+}
+#h10{
+    font-size: 16px;
+    line-height: 28px;
+    width: 600;
+}
+
+#h11{
+    font-size: 16px;
+    line-height: auto;
+    width: 600;
+}
+
+#h12{
+    font-size: 14px;
+    line-height: auto;
+    width: 400;
+}
+/*Body text style*/
+#body1{
+    font-size: 16px;
+    line-height: 28px;
+    width: 300;
+    color:white;
+}
+#body2 {
+    font-size: 14px;
+    line-height: 28px;
+    width: 400;
+    color: #B0B0B2;
+}
+#body3{
+    font-size: 16px;
+    line-height: 28px;
+    width: 400;
+    color:white;
+}
+#body4{
+    font-size: 12px;
+    line-height: 20px;
+    width: 300;
+}
+/*Caption text*/
+#caption1{
+    font-size: 16px;
+    line-height: auto;
+    width: 500;
+}
+
+#caption2{
+    font-size: 14px;
+    line-height: 20px;
+    width: 500;
+}
+
+#caption3{
+    font-size: 10px;
+    line-height: 14px;
+    width: 500;
+}
+#button1{
+    font-size: 10px;
+    line-height: 14px;
+    width: 700;
+}
+#button2{
+    font-size: 10px;
+    line-height: 14px;
+    width: 300;
+}
